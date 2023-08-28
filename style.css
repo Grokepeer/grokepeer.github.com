@@ -8,7 +8,8 @@
 }
 
 .main-title {
-    margin-left: 10vw;
+    margin-inline: 10vw;
+    height: 80vh;
 }
 
 .sub-title {
@@ -21,4 +22,19 @@
 .title {
     font-size: 8em;
     margin-top: 0;
+}
+
+/* From here on there's portfolio CSS */
+.portfolio {
+    margin-inline: 10vw;
+}
+
+.section {
+    font-weight: 300;
+    font-size: 2.5em;
+}
+
+.p-text {
+    font-size: 1.2em;
+    margin-left: 1rem;
 }
