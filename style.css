@@ -3,7 +3,7 @@
 }
 
 .body {
-    background-color: rgb(96, 72, 255);
+    background-image: linear-gradient(to right, rgb(96, 72, 255), rgb(150, 48, 252));
 }
 
 .sub-title {
