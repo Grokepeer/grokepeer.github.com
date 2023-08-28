@@ -6,16 +6,18 @@
     background-image: linear-gradient(to right, rgb(96, 72, 255), rgb(150, 48, 252));
 }
 
+.main-title {
+    margin-left: 10vw;
+}
+
 .sub-title {
     font-weight: 300;
     font-size: 3em;
-    margin-left: 1rem;
     margin-top: 30vh;
     margin-bottom: 0;
 }
 
 .title {
     font-size: 8em;
-    margin-left: 1rem;
     margin-top: 0;
 }
